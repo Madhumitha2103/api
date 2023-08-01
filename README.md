@@ -1,2 +1,2 @@
 # Weather API Project
-![Main]([image_url](https://images.app.goo.gl/kh86B1qkHoa8aAoh7)https://images.app.goo.gl/kh86B1qkHoa8aAoh7)
+![weather_API](https://github.com/Madhumitha2103/api/assets/121252383/dbb54eff-c8be-4738-bec6-b0b33d5b65de)
